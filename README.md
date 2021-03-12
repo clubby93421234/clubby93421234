@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my M.Sc. nat. Informatic @ University Mainz, Germany
 - 🌱 I’m currently learning [BALL]
-- - 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with CUDA/C++
 - 📫 How to reach me: "Steisslinger, Christoph" <chsteiss@students.uni-mainz.de>
 - 😄 Pronouns: He
