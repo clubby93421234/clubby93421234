@@ -15,12 +15,12 @@
 - ⚡ Fun fact: I love cats and gaming 🦖
 
 <br />
+
 ### Connect with me:
 
 [<img align="left" alt="clubby93 42 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Christoph Steissliger | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
 <br />
 
 ### Languages and Tools:
@@ -34,6 +34,9 @@
 <br />
 <br />
 
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clubby93421234)](https://github.com/anuraghazra/github-readme-stats)
+---
 [BALL]: https://ball-project.org/
 [youtube]: https://www.youtube.com/channel/UCcV4WKgZYODTVXzwUhr61sA
 [linkedin]:  https://www.linkedin.com/in/christoph-steisslinger-4ba139112/
