@@ -7,11 +7,10 @@
 ### Hi there, I'm Christoph Steisslinger - aka [clubby93421234] 👋
 
 - 🔭 I’m currently working on my M.Sc. nat. Informatic @ University Mainz, Germany
-- 🌱 I’m currently learning [BALL]
+- 🌱 I’m currently learning [CUDA]
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with CUDA/C++
 - 📫 How to reach me: "Steisslinger, Christoph" <chsteiss@students.uni-mainz.de>
-- 😄 Pronouns: He
 - ⚡ Fun fact: I love cats and gaming 🦖
 
 <br />
@@ -37,6 +36,6 @@
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clubby93421234)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[BALL]: https://ball-project.org/
+[CUDA]: https://developer.nvidia.com/cuda-zone
 [youtube]: https://www.youtube.com/channel/UCcV4WKgZYODTVXzwUhr61sA
 [linkedin]:  https://www.linkedin.com/in/christoph-steisslinger-4ba139112/
