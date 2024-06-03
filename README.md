@@ -6,18 +6,17 @@
 
 ### Hi there, I'm Christoph Steisslinger - aka [clubby93421234] 👋
 
-- 🔭 I’m currently working on my M.Sc. nat. Informatic @ University Mainz, Germany
+- 🔭 I’m a univerity graduate and looking for a job in the bioinformatics field.
 - 🌱 I’m currently learning [CUDA]
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with CUDA/C++
-- 📫 How to reach me: "Steisslinger, Christoph" <chsteiss@students.uni-mainz.de>
+- 📫 How to reach me: "Steisslinger, Christoph" <christoph.steisslinger@earthling.net>
 - ⚡ Fun fact: I love cats and gaming 🦖
 
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="clubby93 42 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Christoph Steissliger | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
